@@ -1,7 +1,7 @@
-# Render a table
+# Render a table 1234
 > render a table from data
 
-# Basic table
+# Basic table hello
 
 Use `data` property to define the data source, add `el-table-column` inside tag `data-tables` to add the column. In fact, it is same to [el-table](http://element.eleme.io/#/en-US/component/table)
 
