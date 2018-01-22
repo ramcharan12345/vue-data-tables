@@ -1,4 +1,4 @@
-# Quick start
+# Quick start hello
 > Start the journey
 
 # Install
